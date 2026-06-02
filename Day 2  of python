@@ -1,0 +1,8 @@
+name = input("Enter your name: ")
+college = input("Enter your college: ")
+field = input("Enter your field: ")
+
+print("Student Details:")
+print("Name:", name)
+print("College:", college)
+print("Field:", field)
